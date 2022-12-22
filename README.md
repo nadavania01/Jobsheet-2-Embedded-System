@@ -107,5 +107,4 @@ Hasil Percobaan:
 
 https://user-images.githubusercontent.com/121012286/208868150-36ce5ee0-06b0-47fb-9c99-ed06a8dc09cb.mp4
 
-Berdasarkan percobaan di atas, cara kerja dari percobaan ini adalah dengan menggunakan sensor dan kartu yang akan terdeteksi oleh sensor tersebut,
-apabila sensor mendeteksi kartu maka pada serial monitor akan muncul pemberitahuan bahwa Akses diterima.
+Berdasarkan percobaan di atas, cara kerja dari percobaan ini adalah dengan menggunakan sensor dan Tag RFID yang akan terdeteksi oleh sensor tersebut, saat Tag RFID yang dikenali didekatkan pada Reader , LED Hijau menyala dan servo akan bergerak ke kanan (lalu kembali ke posisi semula setelah 3 detik) dan di Serial Monitor tertampil pesan “Akses Diterima, Silahkan Masuk”.
